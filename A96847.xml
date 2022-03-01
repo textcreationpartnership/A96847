@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wonderful deliverance at sea or, The miraculous preservation of several persons belonging to the ship called William and Dorothy lately cast away in a voyage to New-Castle. Who by a most gracious providence were kept alive for the space of twelve days and nights without any food, in a small boat, on the main sea: in all which time, onely one child perished, being starved to death with cold and hunger, and the rest were at last taken up, and carried into Holland on the 28th. of November last. And several of them are now safely arrived in England. With allowance, Roger L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96847</idno>
+            <idno type="STC">Wing W3363</idno>
+            <idno type="STC">ESTC R229891</idno>
+            <idno type="EEBO-CITATION">99895546</idno>
+            <idno type="PROQUEST">99895546</idno>
+            <idno type="VID">153029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153029)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2340:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wonderful deliverance at sea or, The miraculous preservation of several persons belonging to the ship called William and Dorothy lately cast away in a voyage to New-Castle. Who by a most gracious providence were kept alive for the space of twelve days and nights without any food, in a small boat, on the main sea: in all which time, onely one child perished, being starved to death with cold and hunger, and the rest were at last taken up, and carried into Holland on the 28th. of November last. And several of them are now safely arrived in England. With allowance, Roger L'Estrange.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Pierce,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Ocean travel --  Early works to 1800.</term>
+               <term>Storms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153029:1" rendition="simple:additions"/>
+            <p>THE Wonderful Deliverance AT SEA: OR, <hi>The miraculous Preſervation of ſeveral Perſons <hi>belonging to the Ship called</hi>
+               </hi> WILLIAM <hi>and</hi> DOROTHY, <hi>lately caſt away in a Voyage to</hi> NEW-CASTLE.</p>
+            <p>
+               <hi>Who by a moſt Gracious Providence were kept alive for the ſpace of Twelve Days and Nights without any Food, in a Small Boat, on the Main Sea: In all which time, onely one Child Periſhed, being Starved to Death with Cold and Hunger, and the reſt were at laſt taken up, and carried into</hi> Holland On the 28th. of <hi>November</hi> Laſt.</p>
+            <p>
+               <hi>And Several of them are now ſafely arrived in</hi> ENGLAND.</p>
+            <p>
+               <hi>With Allowance, Roger L'Eſtrange.</hi>
+            </p>
+            <p>Printed for <hi>Benjamin Pier<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153029:2"/>
+            <pb facs="tcp:153029:2"/>
+            <head>The Wonderful Deliverance at SEA.</head>
+            <p>IT is an Obſervation in ſacred Scripture, <hi>That thoſe that go down to the Sea in ſhips ſee the wonders of the Lord in the deep;</hi> which was fully made good in this miraculous deliverance, that we are here to relate; which happened but the very laſt month in our own Seas, and to perſons of our own Nation.</p>
+            <p>IN the ſecond Week of the month of <hi>November</hi> laſt paſt, a ſmall Veſſel called the <hi>William</hi> and <hi>Dorothy,</hi> fell down out of the River intending to ſteer along the Coaſts to <hi>New-caſtle,</hi> haveing on board of Seamen and Paſſengers about five and twen<g ref="char:EOLhyphen"/>ty perſons; They ſail'd with a fair wind and good weather till they came off of <hi>Flamborough-Head</hi> (a ſmall Promontory in <hi>Yorkſhire</hi>) where being ſurprized with a ſtorm, they were driven out to Sea, and the rough
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:153029:3"/>among them, chewing of it in their mouths, which (providence ſo ordering of it) nouriſhed them ſo as to preſerve their lives, but continuing floating up and down thus eight days and Nights, the poor Child ſtarved with cold and hunger; upon which a great diſpute aroſe amongſt them whether they ſhould not devour its raw fleſh being in that exceſsive exi<g ref="char:EOLhyphen"/>gency; but at laſt the intreaties of its Mother, and conſiderations of humanity prevailed ſo far with 'um as to ſuffer it to be flung over board to be buried in the vaſt abiſs of Waters.</p>
+            <p>It would be eaſie here to draw Tears from every compaſsionate Readers eyes by a pathetical diſcripti<g ref="char:EOLhyphen"/>on of theſe poor forlorn Wretches condition, but in<g ref="char:EOLhyphen"/>deed Words are too little to expreſs it to the Life, and we muſt leave it to his imagination to draw a true <hi>Idea</hi> of their miſery, which none can fully do, but ſuch as are ſenſible by experience of the torment<g ref="char:EOLhyphen"/>ing effects of Famine, and a proſpect of Inevitable Death continually before their eyes, and have them<g ref="char:EOLhyphen"/>ſelves born a ſhare in ſome ſuch like grievous calami<g ref="char:EOLhyphen"/>ty. It may ſound like a Romantick action, but it is a moſt ſerious and well known Truth that they con<g ref="char:EOLhyphen"/>tinued driving forwards and backwards as the wind ſhifted its points, in this manner for the ſpace of eight days longer. And it cannot be denyed, that nothing but the ſpecial and extraordinary provi<g ref="char:EOLhyphen"/>dence of Heaven could have ſo long preſerved them, that they were not overturn'd by the Winds, ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allowed up by the Waves, or daſh'd to pieces
+<pb n="5" facs="tcp:153029:3"/>againſt Rocks, or at leaſt that they were not ut<g ref="char:EOLhyphen"/>terly pined and famiſhed for want of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood is next to a miracle if we may not truly count it one: but that over-ruling power that ſtills the rageing of the Sea, and bounds it at his pleaſure, was graciouſly pleaſed to hear their cry, to ſupport languiſhing nature even againſt hope, and calm the Ocean for their ſafety.</p>
+            <p>Inſomuch that after eight days fluctuation they were caſt upon the Coaſt of <hi>Holland,</hi> and driven aſhore on the Iſle, where the inhabitants ſeeing ſo ſmall a Boat come off from Sea, with perſons in it, concluding them to be the remnants of ſome wrack, charitably went down to receive them; they were all exceeding weak, not able at firſt to ſpeak or go; but being taken in by the people, and put into warm Beds, and ſupplyed with Cordials to reſtore their ſpirits, they in ſhort time recovered, and related all the particulars of their diſtreſs in manner afore<g ref="char:EOLhyphen"/>ſaid; and from thence after ſome ſpace of refreſhing were carried in a ſhip to <hi>Harlingen,</hi> and ſo came to <hi>Rotterdam,</hi> where the young man continues, but the three women took the opportunity of a Veſſel bound for <hi>Scotland,</hi> to go thither, being of that Nation; and the old man came over to <hi>England</hi> in the Pacquet-Boat; and does with much thankſgiving relate Gods Wonderful Mercy in this great and miraculous deli<g ref="char:EOLhyphen"/>verance.</p>
+            <pb n="6" facs="tcp:153029:4"/>
+            <p>As for the reſt of their ſhips crew, which were ta<g ref="char:EOLhyphen"/>ken up before by the <hi>Dutch</hi>-Caper, they were ſet on ſhore in <hi>Lincoln-ſhire,</hi> and divers of them were ſeve<g ref="char:EOLhyphen"/>ral days ago arrived at <hi>London,</hi> confidently reporting theſe five perſons to have been caſt away, as they had all the reaſon in the world to imagine, till the ſight of the old man convinced them of that miſtake.</p>
+            <p>Thus may we from this certain Relation take oc<g ref="char:EOLhyphen"/>caſion to magnifie the Lord for his mercies, and learn to put all our truſt in the Arm of his might, when ſurrounded with the greateſt ſtraights and diſtreſſes; when Art is baffled, and nature finks, and the ſpirits faint, and hope it ſelf diſpairs, then can he command relief and deliverance. Oh! who would not truſt in ſo great a God? who would not love and adore ſo good a God?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153029:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
